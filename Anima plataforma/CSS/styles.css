@@ -1,0 +1,20 @@
+.header1{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
+.title2{
+    background-color: #000000;
+    color: #ffffff;
+    padding: -7px;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
